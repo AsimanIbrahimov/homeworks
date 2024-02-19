@@ -418,3 +418,10 @@ words = "Hello, this is for test"
 print(words)
 result = count_words(words)
 print(f"Total words: {result}")
+
+
+
+
+
+if __name__ == "__main__":
+    print("Thats all")
